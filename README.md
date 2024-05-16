@@ -1,16 +1,16 @@
 # Prerequsite for BTP Application
 
-Install Nodejs Library in Local System - https://nodejs.org/en/download
-Install @sap/cds-dk globally uisng cmd - npm install -global @sap/cds-dk
+ - Install Nodejs Library in Local System - https://nodejs.org/en/download
+ - Install @sap/cds-dk globally uisng cmd - npm install -global @sap/cds-dk
 
 # Getting Started
 
-Create Local folder <Folder_name> and open folder location in cmd
-Add command - cds init
-Install below extension in VS Code -
-  core data services graphical modeler for VS Code
-  SAP Fiori Tools
-  SAP HANA Database Explorer
+ - Create Local folder <Folder_name> and open folder location in cmd
+ - Add command - cds init
+ - Install below extension in VS Code -
+     * core data services graphical modeler for VS Code
+     * SAP Fiori Tools
+     * SAP HANA Database Explorer
   
 Welcome to your new project.
 
